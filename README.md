@@ -18,7 +18,7 @@ I am a web developer specializing in backend development with Node.js and Expres
 ## 📫 Connect with Me:
 - **Email:** [Your Email](muhammadquddus.dev@gmail.com)  
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muhammadquddus?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPEdJ6RLMRGiNf0drFpawfA%3D%3D)  
-- **Facebook:** [Facebook Profile](https://facebook.com/usmonov1128)  
+- **Facebook:** [Facebook Profile](https://facebook.com/Muhammadquddus.dev)  
 
 ## ⚡ My Interests:
 - Optimizing software for better performance  
