@@ -6,7 +6,7 @@ I am a web developer specializing in backend development with Node.js and Expres
 ## 🔧 My Technical Skills:
 - **Programming Languages:** JavaScript (Node.js)  
 - **Backend Technologies:** Express.js, Nest.js  
-- **Databases:** MongoDB, MySQL  
+- **Databases:** MongoDB, PostgreSQL  
 - **Tools & Platforms:** Git, GitHub, Postman  
 - **Version Control:** Proficient in Git  
 
@@ -16,9 +16,9 @@ I am a web developer specializing in backend development with Node.js and Expres
 - Valuing collaboration and effective communication within a team  
 
 ## 📫 Connect with Me:
-- **Email:** [Your Email](mailto:email@example.com)  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Facebook:** [Facebook Profile](https://facebook.com/username)  
+- **Email:** [Your Email](muhammadquddus.dev@gmail.com)  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muhammadquddus?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPEdJ6RLMRGiNf0drFpawfA%3D%3D)  
+- **Facebook:** [Facebook Profile](https://facebook.com/usmonov1128)  
 
 ## ⚡ My Interests:
 - Optimizing software for better performance  
