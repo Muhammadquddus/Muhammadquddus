@@ -5,7 +5,7 @@ I am a web developer specializing in backend development with Node.js and Expres
 
 ## 🔧 My Technical Skills:
 - **Programming Languages:** JavaScript (Node.js)  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
-- **Backend Technologies:** Express.js, Nest.js  
+- **Backend Technologies:** Express.js, Nest.js  ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools & Platforms:** Git, GitHub, Postman  
 - **Version Control:** Proficient in Git  
