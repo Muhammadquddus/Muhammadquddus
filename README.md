@@ -8,7 +8,6 @@ I am a web developer specializing in backend development with Node.js and Expres
 - **Backend Technologies:** Express.js, Nest.js  ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
 - **Databases:** MongoDB, PostgreSQL  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 - **Tools & Platforms:** Git, GitHub, Postman  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-- **Version Control:** Proficient in Git  
 
 ## 🌟 My Values:
 - Focus on writing clean and maintainable code  
@@ -16,8 +15,8 @@ I am a web developer specializing in backend development with Node.js and Expres
 - Valuing collaboration and effective communication within a team  
 
 ## 📫 Connect with Me:
-- **Email:** [Your Email](muhammadquddus.dev@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muhammadquddus?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPEdJ6RLMRGiNf0drFpawfA%3D%3D)  
+- **Email:** [Email](muhammadquddus.dev@gmail.com)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/muhammadquddus?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPEdJ6RLMRGiNf0drFpawfA%3D%3D)  
  
 
 ## ⚡ My Interests:
