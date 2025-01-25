@@ -6,8 +6,8 @@ I am a web developer specializing in backend development with Node.js and Expres
 ## 🔧 My Technical Skills:
 - **Programming Languages:** JavaScript (Node.js)  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
 - **Backend Technologies:** Express.js, Nest.js  ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
-- **Databases:** MongoDB, PostgreSQL  
-- **Tools & Platforms:** Git, GitHub, Postman  
+- **Databases:** MongoDB, PostgreSQL  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+- **Tools & Platforms:** Git, GitHub, Postman  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 - **Version Control:** Proficient in Git  
 
 ## 🌟 My Values:
